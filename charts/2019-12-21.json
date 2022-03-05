@@ -1,0 +1,1012 @@
+{
+    "_max_retries": 5,
+    "_timeout": 25,
+    "date": "2019-12-21",
+    "entries": [
+        {
+            "artist": "Mariah Carey",
+            "image": null,
+            "isNew": false,
+            "lastPos": 3,
+            "peakPos": 1,
+            "rank": 1,
+            "title": "All I Want For Christmas Is You",
+            "weeks": 35
+        },
+        {
+            "artist": "Post Malone",
+            "image": null,
+            "isNew": false,
+            "lastPos": 2,
+            "peakPos": 1,
+            "rank": 2,
+            "title": "Circles",
+            "weeks": 15
+        },
+        {
+            "artist": "Brenda Lee",
+            "image": null,
+            "isNew": false,
+            "lastPos": 8,
+            "peakPos": 3,
+            "rank": 3,
+            "title": "Rockin' Around The Christmas Tree",
+            "weeks": 30
+        },
+        {
+            "artist": "Lewis Capaldi",
+            "image": null,
+            "isNew": false,
+            "lastPos": 4,
+            "peakPos": 1,
+            "rank": 4,
+            "title": "Someone You Loved",
+            "weeks": 31
+        },
+        {
+            "artist": "Lizzo",
+            "image": null,
+            "isNew": false,
+            "lastPos": 6,
+            "peakPos": 3,
+            "rank": 5,
+            "title": "Good As Hell",
+            "weeks": 16
+        },
+        {
+            "artist": "Arizona Zervas",
+            "image": null,
+            "isNew": false,
+            "lastPos": 7,
+            "peakPos": 5,
+            "rank": 6,
+            "title": "Roxanne",
+            "weeks": 6
+        },
+        {
+            "artist": "Maroon 5",
+            "image": null,
+            "isNew": false,
+            "lastPos": 5,
+            "peakPos": 4,
+            "rank": 7,
+            "title": "Memories",
+            "weeks": 12
+        },
+        {
+            "artist": "Juice WRLD",
+            "image": null,
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 2,
+            "rank": 8,
+            "title": "Lucid Dreams",
+            "weeks": 47
+        },
+        {
+            "artist": "Tones And I",
+            "image": null,
+            "isNew": false,
+            "lastPos": 13,
+            "peakPos": 9,
+            "rank": 9,
+            "title": "Dance Monkey",
+            "weeks": 10
+        },
+        {
+            "artist": "Burl Ives",
+            "image": null,
+            "isNew": false,
+            "lastPos": 18,
+            "peakPos": 10,
+            "rank": 10,
+            "title": "A Holly Jolly Christmas",
+            "weeks": 13
+        },
+        {
+            "artist": "DaBaby",
+            "image": null,
+            "isNew": false,
+            "lastPos": 12,
+            "peakPos": 11,
+            "rank": 11,
+            "title": "BOP",
+            "weeks": 11
+        },
+        {
+            "artist": "Juice WRLD & YoungBoy Never Broke Again",
+            "image": null,
+            "isNew": false,
+            "lastPos": 40,
+            "peakPos": 10,
+            "rank": 12,
+            "title": "Bandit",
+            "weeks": 10
+        },
+        {
+            "artist": "Selena Gomez",
+            "image": null,
+            "isNew": false,
+            "lastPos": 9,
+            "peakPos": 1,
+            "rank": 13,
+            "title": "Lose You To Love Me",
+            "weeks": 8
+        },
+        {
+            "artist": "Dan + Shay & Justin Bieber",
+            "image": null,
+            "isNew": false,
+            "lastPos": 10,
+            "peakPos": 4,
+            "rank": 14,
+            "title": "10,000 Hours",
+            "weeks": 10
+        },
+        {
+            "artist": "Bobby Helms",
+            "image": null,
+            "isNew": false,
+            "lastPos": 23,
+            "peakPos": 8,
+            "rank": 15,
+            "title": "Jingle Bell Rock",
+            "weeks": 28
+        },
+        {
+            "artist": "Shawn Mendes & Camila Cabello",
+            "image": null,
+            "isNew": false,
+            "lastPos": 15,
+            "peakPos": 1,
+            "rank": 16,
+            "title": "Senorita",
+            "weeks": 25
+        },
+        {
+            "artist": "The Weeknd",
+            "image": null,
+            "isNew": false,
+            "lastPos": 1,
+            "peakPos": 1,
+            "rank": 17,
+            "title": "Heartless",
+            "weeks": 3
+        },
+        {
+            "artist": "Mustard & Roddy Ricch",
+            "image": null,
+            "isNew": false,
+            "lastPos": 16,
+            "peakPos": 16,
+            "rank": 18,
+            "title": "Ballin'",
+            "weeks": 21
+        },
+        {
+            "artist": "Chris Brown Featuring Drake",
+            "image": null,
+            "isNew": false,
+            "lastPos": 14,
+            "peakPos": 5,
+            "rank": 19,
+            "title": "No Guidance",
+            "weeks": 27
+        },
+        {
+            "artist": "Andy Williams",
+            "image": null,
+            "isNew": false,
+            "lastPos": 24,
+            "peakPos": 10,
+            "rank": 20,
+            "title": "It's The Most Wonderful Time Of The Year",
+            "weeks": 13
+        },
+        {
+            "artist": "Billie Eilish",
+            "image": null,
+            "isNew": false,
+            "lastPos": 21,
+            "peakPos": 1,
+            "rank": 21,
+            "title": "Bad Guy",
+            "weeks": 37
+        },
+        {
+            "artist": "Lil Nas X",
+            "image": null,
+            "isNew": false,
+            "lastPos": 17,
+            "peakPos": 5,
+            "rank": 22,
+            "title": "Panini",
+            "weeks": 25
+        },
+        {
+            "artist": "Lizzo",
+            "image": null,
+            "isNew": false,
+            "lastPos": 22,
+            "peakPos": 1,
+            "rank": 23,
+            "title": "Truth Hurts",
+            "weeks": 32
+        },
+        {
+            "artist": "Dean Martin",
+            "image": null,
+            "isNew": false,
+            "lastPos": 28,
+            "peakPos": 20,
+            "rank": 24,
+            "title": "Let It Snow, Let It Snow, Let It Snow",
+            "weeks": 6
+        },
+        {
+            "artist": "Travis Scott",
+            "image": null,
+            "isNew": false,
+            "lastPos": 20,
+            "peakPos": 1,
+            "rank": 25,
+            "title": "HIGHEST IN THE ROOM",
+            "weeks": 10
+        },
+        {
+            "artist": "Wham!",
+            "image": null,
+            "isNew": false,
+            "lastPos": 27,
+            "peakPos": 25,
+            "rank": 26,
+            "title": "Last Christmas",
+            "weeks": 12
+        },
+        {
+            "artist": "SHAED",
+            "image": null,
+            "isNew": false,
+            "lastPos": 19,
+            "peakPos": 13,
+            "rank": 27,
+            "title": "Trampoline",
+            "weeks": 28
+        },
+        {
+            "artist": "Lil Baby",
+            "image": null,
+            "isNew": false,
+            "lastPos": 29,
+            "peakPos": 16,
+            "rank": 28,
+            "title": "Woah",
+            "weeks": 5
+        },
+        {
+            "artist": "Juice WRLD",
+            "image": null,
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 29,
+            "rank": 29,
+            "title": "Legends",
+            "weeks": 3
+        },
+        {
+            "artist": "Billie Eilish",
+            "image": null,
+            "isNew": false,
+            "lastPos": 25,
+            "peakPos": 8,
+            "rank": 30,
+            "title": "Everything I Wanted",
+            "weeks": 5
+        },
+        {
+            "artist": "Lil Tecca",
+            "image": null,
+            "isNew": false,
+            "lastPos": 37,
+            "peakPos": 4,
+            "rank": 31,
+            "title": "Ran$om",
+            "weeks": 28
+        },
+        {
+            "artist": "Nat King Cole",
+            "image": null,
+            "isNew": false,
+            "lastPos": 33,
+            "peakPos": 11,
+            "rank": 32,
+            "title": "The Christmas Song (Merry Christmas To You)",
+            "weeks": 19
+        },
+        {
+            "artist": "Young Thug Featuring Gunna",
+            "image": null,
+            "isNew": false,
+            "lastPos": 26,
+            "peakPos": 11,
+            "rank": 33,
+            "title": "Hot",
+            "weeks": 17
+        },
+        {
+            "artist": "Jose Feliciano",
+            "image": null,
+            "isNew": false,
+            "lastPos": 39,
+            "peakPos": 29,
+            "rank": 34,
+            "title": "Feliz Navidad",
+            "weeks": 7
+        },
+        {
+            "artist": "Harry Styles",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 35,
+            "rank": 35,
+            "title": "Adore You",
+            "weeks": 1
+        },
+        {
+            "artist": "Trevor Daniel",
+            "image": null,
+            "isNew": false,
+            "lastPos": 41,
+            "peakPos": 36,
+            "rank": 36,
+            "title": "Falling",
+            "weeks": 4
+        },
+        {
+            "artist": "The Ronettes",
+            "image": null,
+            "isNew": false,
+            "lastPos": 43,
+            "peakPos": 26,
+            "rank": 37,
+            "title": "Sleigh Ride",
+            "weeks": 5
+        },
+        {
+            "artist": "Gene Autry",
+            "image": null,
+            "isNew": false,
+            "lastPos": 44,
+            "peakPos": 16,
+            "rank": 38,
+            "title": "Rudolph The Red-Nosed Reindeer",
+            "weeks": 6
+        },
+        {
+            "artist": "Lil Nas X Featuring Billy Ray Cyrus",
+            "image": null,
+            "isNew": false,
+            "lastPos": 31,
+            "peakPos": 1,
+            "rank": 39,
+            "title": "Old Town Road",
+            "weeks": 41
+        },
+        {
+            "artist": "Taylor Swift",
+            "image": null,
+            "isNew": false,
+            "lastPos": 32,
+            "peakPos": 10,
+            "rank": 40,
+            "title": "Lover",
+            "weeks": 17
+        },
+        {
+            "artist": "Old Dominion",
+            "image": null,
+            "isNew": false,
+            "lastPos": 30,
+            "peakPos": 20,
+            "rank": 41,
+            "title": "One Man Band",
+            "weeks": 16
+        },
+        {
+            "artist": "Dua Lipa",
+            "image": null,
+            "isNew": false,
+            "lastPos": 42,
+            "peakPos": 30,
+            "rank": 42,
+            "title": "Don't Start Now",
+            "weeks": 6
+        },
+        {
+            "artist": "Andy Williams",
+            "image": null,
+            "isNew": false,
+            "lastPos": 47,
+            "peakPos": 43,
+            "rank": 43,
+            "title": "Happy Holiday / The Holiday Season",
+            "weeks": 2
+        },
+        {
+            "artist": "Jonas Brothers",
+            "image": null,
+            "isNew": false,
+            "lastPos": 34,
+            "peakPos": 18,
+            "rank": 44,
+            "title": "Only Human",
+            "weeks": 26
+        },
+        {
+            "artist": "Wale Featuring Jeremih",
+            "image": null,
+            "isNew": false,
+            "lastPos": 35,
+            "peakPos": 22,
+            "rank": 45,
+            "title": "On Chill",
+            "weeks": 18
+        },
+        {
+            "artist": "Luke Combs",
+            "image": null,
+            "isNew": false,
+            "lastPos": 38,
+            "peakPos": 11,
+            "rank": 46,
+            "title": "Even Though I'm Leaving",
+            "weeks": 15
+        },
+        {
+            "artist": "Roddy Ricch",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 47,
+            "rank": 47,
+            "title": "The Box",
+            "weeks": 1
+        },
+        {
+            "artist": "Halsey",
+            "image": null,
+            "isNew": false,
+            "lastPos": 45,
+            "peakPos": 34,
+            "rank": 48,
+            "title": "Graveyard",
+            "weeks": 13
+        },
+        {
+            "artist": "Juice WRLD",
+            "image": null,
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 27,
+            "rank": 49,
+            "title": "Robbery",
+            "weeks": 19
+        },
+        {
+            "artist": "Ed Sheeran Featuring Khalid",
+            "image": null,
+            "isNew": false,
+            "lastPos": 36,
+            "peakPos": 13,
+            "rank": 50,
+            "title": "Beautiful People",
+            "weeks": 24
+        },
+        {
+            "artist": "blackbear",
+            "image": null,
+            "isNew": false,
+            "lastPos": 53,
+            "peakPos": 41,
+            "rank": 51,
+            "title": "Hot Girl Bummer",
+            "weeks": 13
+        },
+        {
+            "artist": "The Weeknd",
+            "image": null,
+            "isNew": false,
+            "lastPos": 11,
+            "peakPos": 11,
+            "rank": 52,
+            "title": "Blinding Lights",
+            "weeks": 2
+        },
+        {
+            "artist": "Summer Walker",
+            "image": null,
+            "isNew": false,
+            "lastPos": 52,
+            "peakPos": 16,
+            "rank": 53,
+            "title": "Playing Games",
+            "weeks": 15
+        },
+        {
+            "artist": "Maren Morris",
+            "image": null,
+            "isNew": false,
+            "lastPos": 57,
+            "peakPos": 48,
+            "rank": 54,
+            "title": "The Bones",
+            "weeks": 12
+        },
+        {
+            "artist": "Idina Menzel & AURORA",
+            "image": null,
+            "isNew": false,
+            "lastPos": 46,
+            "peakPos": 46,
+            "rank": 55,
+            "title": "Into The Unknown",
+            "weeks": 3
+        },
+        {
+            "artist": "Chris Brown Featuring Gunna",
+            "image": null,
+            "isNew": false,
+            "lastPos": 55,
+            "peakPos": 36,
+            "rank": 56,
+            "title": "Heat",
+            "weeks": 15
+        },
+        {
+            "artist": "Doja Cat & Tyga",
+            "image": null,
+            "isNew": false,
+            "lastPos": 56,
+            "peakPos": 47,
+            "rank": 57,
+            "title": "Juicy",
+            "weeks": 7
+        },
+        {
+            "artist": "Roddy Ricch & Gunna",
+            "image": null,
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 58,
+            "rank": 58,
+            "title": "Start Wit Me",
+            "weeks": 4
+        },
+        {
+            "artist": "Taylor Swift",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 59,
+            "rank": 59,
+            "title": "Christmas Tree Farm",
+            "weeks": 1
+        },
+        {
+            "artist": "Ellie Goulding & Juice WRLD",
+            "image": null,
+            "isNew": false,
+            "lastPos": 89,
+            "peakPos": 56,
+            "rank": 60,
+            "title": "Hate Me",
+            "weeks": 18
+        },
+        {
+            "artist": "Jonas Brothers",
+            "image": null,
+            "isNew": false,
+            "lastPos": 72,
+            "peakPos": 61,
+            "rank": 61,
+            "title": "Like It's Christmas",
+            "weeks": 2
+        },
+        {
+            "artist": "DaBaby",
+            "image": null,
+            "isNew": false,
+            "lastPos": 61,
+            "peakPos": 21,
+            "rank": 62,
+            "title": "VIBEZ",
+            "weeks": 11
+        },
+        {
+            "artist": "Thomas Rhett",
+            "image": null,
+            "isNew": false,
+            "lastPos": 62,
+            "peakPos": 53,
+            "rank": 63,
+            "title": "Remember You Young",
+            "weeks": 13
+        },
+        {
+            "artist": "Trippie Redd Featuring DaBaby",
+            "image": null,
+            "isNew": false,
+            "lastPos": 64,
+            "peakPos": 59,
+            "rank": 64,
+            "title": "Death",
+            "weeks": 4
+        },
+        {
+            "artist": "Rod Wave",
+            "image": null,
+            "isNew": false,
+            "lastPos": 59,
+            "peakPos": 54,
+            "rank": 65,
+            "title": "Heart On Ice",
+            "weeks": 5
+        },
+        {
+            "artist": "NLE Choppa",
+            "image": null,
+            "isNew": false,
+            "lastPos": 73,
+            "peakPos": 37,
+            "rank": 66,
+            "title": "Camelot",
+            "weeks": 13
+        },
+        {
+            "artist": "Post Malone Featuring Ozzy Osbourne & Travis Scott",
+            "image": null,
+            "isNew": false,
+            "lastPos": 60,
+            "peakPos": 8,
+            "rank": 67,
+            "title": "Take What You Want",
+            "weeks": 14
+        },
+        {
+            "artist": "Dustin Lynch",
+            "image": null,
+            "isNew": false,
+            "lastPos": 69,
+            "peakPos": 68,
+            "rank": 68,
+            "title": "Ridin' Roads",
+            "weeks": 6
+        },
+        {
+            "artist": "Layton Greene, Lil Baby, City Girls & PnB Rock",
+            "image": null,
+            "isNew": false,
+            "lastPos": 65,
+            "peakPos": 60,
+            "rank": 69,
+            "title": "Leave Em Alone",
+            "weeks": 10
+        },
+        {
+            "artist": "Lady Antebellum",
+            "image": null,
+            "isNew": false,
+            "lastPos": 67,
+            "peakPos": 47,
+            "rank": 70,
+            "title": "What If I Never Get Over You",
+            "weeks": 16
+        },
+        {
+            "artist": "Jon Pardi",
+            "image": null,
+            "isNew": false,
+            "lastPos": 71,
+            "peakPos": 67,
+            "rank": 71,
+            "title": "Heartache Medication",
+            "weeks": 11
+        },
+        {
+            "artist": "Roddy Ricch Featuring Meek Mill",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 72,
+            "rank": 72,
+            "title": "Peta",
+            "weeks": 1
+        },
+        {
+            "artist": "Roddy Ricch Featuring A Boogie Wit da Hoodie",
+            "image": null,
+            "isNew": false,
+            "lastPos": 83,
+            "peakPos": 73,
+            "rank": 73,
+            "title": "Tip Toe",
+            "weeks": 2
+        },
+        {
+            "artist": "YNW Melly & Juice WRLD",
+            "image": null,
+            "isNew": false,
+            "lastPos": 86,
+            "peakPos": 64,
+            "rank": 74,
+            "title": "Suicidal",
+            "weeks": 3
+        },
+        {
+            "artist": "Bad Bunny",
+            "image": null,
+            "isNew": false,
+            "lastPos": 63,
+            "peakPos": 33,
+            "rank": 75,
+            "title": "Vete",
+            "weeks": 3
+        },
+        {
+            "artist": "Don Toliver",
+            "image": null,
+            "isNew": false,
+            "lastPos": 68,
+            "peakPos": 68,
+            "rank": 76,
+            "title": "No Idea",
+            "weeks": 2
+        },
+        {
+            "artist": "Sam Hunt",
+            "image": null,
+            "isNew": false,
+            "lastPos": 77,
+            "peakPos": 62,
+            "rank": 77,
+            "title": "Kinfolks",
+            "weeks": 9
+        },
+        {
+            "artist": "Trippie Redd Featuring Juice WRLD & YNW Melly",
+            "image": null,
+            "isNew": false,
+            "lastPos": 80,
+            "peakPos": 60,
+            "rank": 78,
+            "title": "6 Kiss",
+            "weeks": 3
+        },
+        {
+            "artist": "Matt Stell",
+            "image": null,
+            "isNew": false,
+            "lastPos": 75,
+            "peakPos": 36,
+            "rank": 79,
+            "title": "Prayed For You",
+            "weeks": 19
+        },
+        {
+            "artist": "YNW Melly & 9lokknine",
+            "image": null,
+            "isNew": false,
+            "lastPos": 74,
+            "peakPos": 34,
+            "rank": 80,
+            "title": "223's",
+            "weeks": 14
+        },
+        {
+            "artist": "Joji",
+            "image": null,
+            "isNew": false,
+            "lastPos": 87,
+            "peakPos": 69,
+            "rank": 81,
+            "title": "Slow Dancing In The Dark",
+            "weeks": 10
+        },
+        {
+            "artist": "Camila Cabello Featuring DaBaby",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 82,
+            "rank": 82,
+            "title": "My Oh My",
+            "weeks": 1
+        },
+        {
+            "artist": "Post Malone Featuring DaBaby",
+            "image": null,
+            "isNew": false,
+            "lastPos": 76,
+            "peakPos": 16,
+            "rank": 83,
+            "title": "Enemies",
+            "weeks": 14
+        },
+        {
+            "artist": "DaBaby Featuring Offset",
+            "image": null,
+            "isNew": false,
+            "lastPos": 78,
+            "peakPos": 59,
+            "rank": 84,
+            "title": "Baby Sitter",
+            "weeks": 18
+        },
+        {
+            "artist": "XXXTENTACION Featuring PnB Rock & Trippie Redd",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 85,
+            "rank": 85,
+            "title": "Bad Vibes Forever",
+            "weeks": 1
+        },
+        {
+            "artist": "Doja Cat",
+            "image": null,
+            "isNew": false,
+            "lastPos": 94,
+            "peakPos": 86,
+            "rank": 86,
+            "title": "Candy",
+            "weeks": 3
+        },
+        {
+            "artist": "Juice WRLD",
+            "image": null,
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 41,
+            "rank": 87,
+            "title": "Empty",
+            "weeks": 4
+        },
+        {
+            "artist": "Jason Aldean",
+            "image": null,
+            "isNew": false,
+            "lastPos": 81,
+            "peakPos": 78,
+            "rank": 88,
+            "title": "We Back",
+            "weeks": 4
+        },
+        {
+            "artist": "DaniLeigh Featuring Chris Brown",
+            "image": null,
+            "isNew": false,
+            "lastPos": 90,
+            "peakPos": 88,
+            "rank": 89,
+            "title": "Easy",
+            "weeks": 6
+        },
+        {
+            "artist": "Kane Brown",
+            "image": null,
+            "isNew": false,
+            "lastPos": 88,
+            "peakPos": 88,
+            "rank": 90,
+            "title": "Homesick",
+            "weeks": 4
+        },
+        {
+            "artist": "Niall Horan",
+            "image": null,
+            "isNew": false,
+            "lastPos": 85,
+            "peakPos": 63,
+            "rank": 91,
+            "title": "Nice To Meet Ya",
+            "weeks": 9
+        },
+        {
+            "artist": "Harry Styles",
+            "image": null,
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 60,
+            "rank": 92,
+            "title": "Watermelon Sugar",
+            "weeks": 3
+        },
+        {
+            "artist": "Idina Menzel & Evan Rachel Wood",
+            "image": null,
+            "isNew": false,
+            "lastPos": 70,
+            "peakPos": 70,
+            "rank": 93,
+            "title": "Show Yourself",
+            "weeks": 3
+        },
+        {
+            "artist": "Keith Urban",
+            "image": null,
+            "isNew": false,
+            "lastPos": 66,
+            "peakPos": 65,
+            "rank": 94,
+            "title": "We Were",
+            "weeks": 15
+        },
+        {
+            "artist": "Ant Saunders",
+            "image": null,
+            "isNew": false,
+            "lastPos": 84,
+            "peakPos": 81,
+            "rank": 95,
+            "title": "Yellow Hearts",
+            "weeks": 5
+        },
+        {
+            "artist": "Black Eyed Peas X J Balvin",
+            "image": null,
+            "isNew": false,
+            "lastPos": 98,
+            "peakPos": 96,
+            "rank": 96,
+            "title": "RITMO (Bad Boys For Life)",
+            "weeks": 3
+        },
+        {
+            "artist": "Fat Joe & Dre Featuring Eminem & Mary J. Blige",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 97,
+            "rank": 97,
+            "title": "Lord Above",
+            "weeks": 1
+        },
+        {
+            "artist": "Roddy Ricch",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 98,
+            "rank": 98,
+            "title": "Big Stepper",
+            "weeks": 1
+        },
+        {
+            "artist": "Rod Wave & Kevin Gates",
+            "image": null,
+            "isNew": false,
+            "lastPos": 92,
+            "peakPos": 92,
+            "rank": 99,
+            "title": "Cuban Links",
+            "weeks": 3
+        },
+        {
+            "artist": "Russ & BIA",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 100,
+            "rank": 100,
+            "title": "BEST ON EARTH",
+            "weeks": 1
+        }
+    ],
+    "name": "hot-100",
+    "nextDate": "2019-12-28",
+    "previousDate": "2019-12-14",
+    "title": "The Hot 100",
+    "year": null
+}

@@ -1,0 +1,1012 @@
+{
+    "_max_retries": 5,
+    "_timeout": 25,
+    "date": "2015-10-03",
+    "entries": [
+        {
+            "artist": "The Weeknd",
+            "image": null,
+            "isNew": false,
+            "lastPos": 2,
+            "peakPos": 1,
+            "rank": 1,
+            "title": "The Hills",
+            "weeks": 17
+        },
+        {
+            "artist": "Justin Bieber",
+            "image": null,
+            "isNew": false,
+            "lastPos": 3,
+            "peakPos": 1,
+            "rank": 2,
+            "title": "What Do You Mean?",
+            "weeks": 3
+        },
+        {
+            "artist": "The Weeknd",
+            "image": null,
+            "isNew": false,
+            "lastPos": 1,
+            "peakPos": 1,
+            "rank": 3,
+            "title": "Can't Feel My Face",
+            "weeks": 15
+        },
+        {
+            "artist": "Silento",
+            "image": null,
+            "isNew": false,
+            "lastPos": 4,
+            "peakPos": 3,
+            "rank": 4,
+            "title": "Watch Me",
+            "weeks": 30
+        },
+        {
+            "artist": "Selena Gomez Featuring A$AP Rocky",
+            "image": null,
+            "isNew": false,
+            "lastPos": 7,
+            "peakPos": 5,
+            "rank": 5,
+            "title": "Good For You",
+            "weeks": 13
+        },
+        {
+            "artist": "R. City Featuring Adam Levine",
+            "image": null,
+            "isNew": false,
+            "lastPos": 9,
+            "peakPos": 6,
+            "rank": 6,
+            "title": "Locked Away",
+            "weeks": 9
+        },
+        {
+            "artist": "Fetty Wap Featuring Remy Boyz",
+            "image": null,
+            "isNew": false,
+            "lastPos": 8,
+            "peakPos": 7,
+            "rank": 7,
+            "title": "679",
+            "weeks": 12
+        },
+        {
+            "artist": "OMI",
+            "image": null,
+            "isNew": false,
+            "lastPos": 5,
+            "peakPos": 1,
+            "rank": 8,
+            "title": "Cheerleader",
+            "weeks": 22
+        },
+        {
+            "artist": "Drake",
+            "image": null,
+            "isNew": false,
+            "lastPos": 16,
+            "peakPos": 9,
+            "rank": 9,
+            "title": "Hotline Bling",
+            "weeks": 7
+        },
+        {
+            "artist": "Major Lazer & DJ Snake Featuring MO",
+            "image": null,
+            "isNew": false,
+            "lastPos": 6,
+            "peakPos": 4,
+            "rank": 10,
+            "title": "Lean On",
+            "weeks": 24
+        },
+        {
+            "artist": "Ed Sheeran",
+            "image": null,
+            "isNew": false,
+            "lastPos": 10,
+            "peakPos": 10,
+            "rank": 11,
+            "title": "Photograph",
+            "weeks": 19
+        },
+        {
+            "artist": "Shawn Mendes",
+            "image": null,
+            "isNew": false,
+            "lastPos": 14,
+            "peakPos": 12,
+            "rank": 12,
+            "title": "Stitches",
+            "weeks": 17
+        },
+        {
+            "artist": "Taylor Swift",
+            "image": null,
+            "isNew": false,
+            "lastPos": 12,
+            "peakPos": 12,
+            "rank": 13,
+            "title": "Wildest Dreams",
+            "weeks": 4
+        },
+        {
+            "artist": "Demi Lovato",
+            "image": null,
+            "isNew": false,
+            "lastPos": 11,
+            "peakPos": 11,
+            "rank": 14,
+            "title": "Cool For The Summer",
+            "weeks": 12
+        },
+        {
+            "artist": "Fetty Wap Featuring Monty",
+            "image": null,
+            "isNew": false,
+            "lastPos": 15,
+            "peakPos": 7,
+            "rank": 15,
+            "title": "My Way",
+            "weeks": 11
+        },
+        {
+            "artist": "Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz",
+            "image": null,
+            "isNew": false,
+            "lastPos": 22,
+            "peakPos": 16,
+            "rank": 16,
+            "title": "Downtown",
+            "weeks": 4
+        },
+        {
+            "artist": "Fetty Wap",
+            "image": null,
+            "isNew": false,
+            "lastPos": 18,
+            "peakPos": 2,
+            "rank": 17,
+            "title": "Trap Queen",
+            "weeks": 35
+        },
+        {
+            "artist": "Rachel Platten",
+            "image": null,
+            "isNew": false,
+            "lastPos": 17,
+            "peakPos": 6,
+            "rank": 18,
+            "title": "Fight Song",
+            "weeks": 23
+        },
+        {
+            "artist": "Skrillex & Diplo With Justin Bieber",
+            "image": null,
+            "isNew": false,
+            "lastPos": 13,
+            "peakPos": 8,
+            "rank": 19,
+            "title": "Where Are U Now",
+            "weeks": 29
+        },
+        {
+            "artist": "WALK THE MOON",
+            "image": null,
+            "isNew": false,
+            "lastPos": 19,
+            "peakPos": 4,
+            "rank": 20,
+            "title": "Shut Up And Dance",
+            "weeks": 45
+        },
+        {
+            "artist": "iLoveMemphis",
+            "image": null,
+            "isNew": false,
+            "lastPos": 20,
+            "peakPos": 20,
+            "rank": 21,
+            "title": "Hit The Quan",
+            "weeks": 5
+        },
+        {
+            "artist": "Charlie Puth Featuring Meghan Trainor",
+            "image": null,
+            "isNew": false,
+            "lastPos": 23,
+            "peakPos": 22,
+            "rank": 22,
+            "title": "Marvin Gaye",
+            "weeks": 14
+        },
+        {
+            "artist": "Wiz Khalifa Featuring Charlie Puth",
+            "image": null,
+            "isNew": false,
+            "lastPos": 21,
+            "peakPos": 1,
+            "rank": 23,
+            "title": "See You Again",
+            "weeks": 28
+        },
+        {
+            "artist": "One Direction",
+            "image": null,
+            "isNew": false,
+            "lastPos": 24,
+            "peakPos": 3,
+            "rank": 24,
+            "title": "Drag Me Down",
+            "weeks": 7
+        },
+        {
+            "artist": "Fall Out Boy",
+            "image": null,
+            "isNew": false,
+            "lastPos": 26,
+            "peakPos": 22,
+            "rank": 25,
+            "title": "Uma Thurman",
+            "weeks": 24
+        },
+        {
+            "artist": "Meek Mill Featuring Chris Brown & Nicki Minaj",
+            "image": null,
+            "isNew": false,
+            "lastPos": 28,
+            "peakPos": 21,
+            "rank": 26,
+            "title": "All Eyes On You",
+            "weeks": 13
+        },
+        {
+            "artist": "Mark Ronson Featuring Bruno Mars",
+            "image": null,
+            "isNew": false,
+            "lastPos": 27,
+            "peakPos": 1,
+            "rank": 27,
+            "title": "Uptown Funk!",
+            "weeks": 45
+        },
+        {
+            "artist": "X Ambassadors",
+            "image": null,
+            "isNew": false,
+            "lastPos": 37,
+            "peakPos": 28,
+            "rank": 28,
+            "title": "Renegades",
+            "weeks": 23
+        },
+        {
+            "artist": "Taylor Swift Featuring Kendrick Lamar",
+            "image": null,
+            "isNew": false,
+            "lastPos": 25,
+            "peakPos": 1,
+            "rank": 29,
+            "title": "Bad Blood",
+            "weeks": 21
+        },
+        {
+            "artist": "Hailee Steinfeld",
+            "image": null,
+            "isNew": false,
+            "lastPos": 36,
+            "peakPos": 30,
+            "rank": 30,
+            "title": "Love Myself",
+            "weeks": 6
+        },
+        {
+            "artist": "Rich Homie Quan",
+            "image": null,
+            "isNew": false,
+            "lastPos": 29,
+            "peakPos": 26,
+            "rank": 31,
+            "title": "Flex (Ooh Ooh Ooh)",
+            "weeks": 22
+        },
+        {
+            "artist": "Jason Derulo",
+            "image": null,
+            "isNew": false,
+            "lastPos": 31,
+            "peakPos": 5,
+            "rank": 32,
+            "title": "Want To Want Me",
+            "weeks": 28
+        },
+        {
+            "artist": "Drake",
+            "image": null,
+            "isNew": false,
+            "lastPos": 39,
+            "peakPos": 21,
+            "rank": 33,
+            "title": "Back To Back",
+            "weeks": 7
+        },
+        {
+            "artist": "Elle King",
+            "image": null,
+            "isNew": false,
+            "lastPos": 46,
+            "peakPos": 34,
+            "rank": 34,
+            "title": "Ex's & Oh's",
+            "weeks": 11
+        },
+        {
+            "artist": "Fifth Harmony Featuring Kid Ink",
+            "image": null,
+            "isNew": false,
+            "lastPos": 30,
+            "peakPos": 12,
+            "rank": 35,
+            "title": "Worth It",
+            "weeks": 31
+        },
+        {
+            "artist": "The Weeknd",
+            "image": null,
+            "isNew": false,
+            "lastPos": 34,
+            "peakPos": 3,
+            "rank": 36,
+            "title": "Earned It (Fifty Shades Of Grey)",
+            "weeks": 39
+        },
+        {
+            "artist": "Ed Sheeran",
+            "image": null,
+            "isNew": false,
+            "lastPos": 32,
+            "peakPos": 2,
+            "rank": 37,
+            "title": "Thinking Out Loud",
+            "weeks": 50
+        },
+        {
+            "artist": "Andy Grammer",
+            "image": null,
+            "isNew": false,
+            "lastPos": 38,
+            "peakPos": 9,
+            "rank": 38,
+            "title": "Honey, I'm Good.",
+            "weeks": 30
+        },
+        {
+            "artist": "Jidenna Featuring Roman GianArthur",
+            "image": null,
+            "isNew": false,
+            "lastPos": 33,
+            "peakPos": 22,
+            "rank": 39,
+            "title": "Classic Man",
+            "weeks": 20
+        },
+        {
+            "artist": "Luke Bryan",
+            "image": null,
+            "isNew": false,
+            "lastPos": 49,
+            "peakPos": 40,
+            "rank": 40,
+            "title": "Strip It Down",
+            "weeks": 7
+        },
+        {
+            "artist": "Keith Urban",
+            "image": null,
+            "isNew": false,
+            "lastPos": 44,
+            "peakPos": 41,
+            "rank": 41,
+            "title": "John Cougar, John Deere, John 3:16",
+            "weeks": 15
+        },
+        {
+            "artist": "Chris Janson",
+            "image": null,
+            "isNew": false,
+            "lastPos": 42,
+            "peakPos": 41,
+            "rank": 42,
+            "title": "Buy Me A Boat",
+            "weeks": 17
+        },
+        {
+            "artist": "Selena Gomez",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 43,
+            "rank": 43,
+            "title": "Same Old Love",
+            "weeks": 1
+        },
+        {
+            "artist": "Sam Hunt",
+            "image": null,
+            "isNew": false,
+            "lastPos": 35,
+            "peakPos": 26,
+            "rank": 44,
+            "title": "House Party",
+            "weeks": 16
+        },
+        {
+            "artist": "Meghan Trainor Featuring John Legend",
+            "image": null,
+            "isNew": false,
+            "lastPos": 50,
+            "peakPos": 45,
+            "rank": 45,
+            "title": "Like I'm Gonna Lose You",
+            "weeks": 11
+        },
+        {
+            "artist": "Calvin Harris & Disciples",
+            "image": null,
+            "isNew": false,
+            "lastPos": 45,
+            "peakPos": 45,
+            "rank": 46,
+            "title": "How Deep Is Your Love",
+            "weeks": 9
+        },
+        {
+            "artist": "Future Featuring Drake",
+            "image": null,
+            "isNew": false,
+            "lastPos": 48,
+            "peakPos": 47,
+            "rank": 47,
+            "title": "Where Ya At",
+            "weeks": 9
+        },
+        {
+            "artist": "Omarion Featuring Chris Brown & Jhene Aiko",
+            "image": null,
+            "isNew": false,
+            "lastPos": 40,
+            "peakPos": 13,
+            "rank": 48,
+            "title": "Post To Be",
+            "weeks": 37
+        },
+        {
+            "artist": "Maroon 5",
+            "image": null,
+            "isNew": false,
+            "lastPos": 41,
+            "peakPos": 2,
+            "rank": 49,
+            "title": "Sugar",
+            "weeks": 36
+        },
+        {
+            "artist": "Fetty Wap",
+            "image": null,
+            "isNew": false,
+            "lastPos": 47,
+            "peakPos": 33,
+            "rank": 50,
+            "title": "Again",
+            "weeks": 6
+        },
+        {
+            "artist": "Jeremih Featuring J. Cole",
+            "image": null,
+            "isNew": false,
+            "lastPos": 51,
+            "peakPos": 44,
+            "rank": 51,
+            "title": "Planez",
+            "weeks": 17
+        },
+        {
+            "artist": "Brett Eldredge",
+            "image": null,
+            "isNew": false,
+            "lastPos": 52,
+            "peakPos": 52,
+            "rank": 52,
+            "title": "Lose My Mind",
+            "weeks": 15
+        },
+        {
+            "artist": "Thomas Rhett",
+            "image": null,
+            "isNew": false,
+            "lastPos": 43,
+            "peakPos": 36,
+            "rank": 53,
+            "title": "Crash And Burn",
+            "weeks": 19
+        },
+        {
+            "artist": "Kenny Chesney",
+            "image": null,
+            "isNew": false,
+            "lastPos": 55,
+            "peakPos": 54,
+            "rank": 54,
+            "title": "Save It For A Rainy Day",
+            "weeks": 9
+        },
+        {
+            "artist": "Alessia Cara",
+            "image": null,
+            "isNew": false,
+            "lastPos": 58,
+            "peakPos": 55,
+            "rank": 55,
+            "title": "Here",
+            "weeks": 7
+        },
+        {
+            "artist": "Nick Jonas",
+            "image": null,
+            "isNew": false,
+            "lastPos": 60,
+            "peakPos": 56,
+            "rank": 56,
+            "title": "Levels",
+            "weeks": 4
+        },
+        {
+            "artist": "Nicky Jam & Enrique Iglesias",
+            "image": null,
+            "isNew": false,
+            "lastPos": 56,
+            "peakPos": 56,
+            "rank": 57,
+            "title": "El Perdon (Forgiveness)",
+            "weeks": 26
+        },
+        {
+            "artist": "K Camp",
+            "image": null,
+            "isNew": false,
+            "lastPos": 54,
+            "peakPos": 54,
+            "rank": 58,
+            "title": "Comfortable",
+            "weeks": 7
+        },
+        {
+            "artist": "Rae Sremmurd",
+            "image": null,
+            "isNew": false,
+            "lastPos": 53,
+            "peakPos": 49,
+            "rank": 59,
+            "title": "This Could Be Us",
+            "weeks": 15
+        },
+        {
+            "artist": "Cam",
+            "image": null,
+            "isNew": false,
+            "lastPos": 59,
+            "peakPos": 59,
+            "rank": 60,
+            "title": "Burning House",
+            "weeks": 10
+        },
+        {
+            "artist": "Maddie & Tae",
+            "image": null,
+            "isNew": false,
+            "lastPos": 62,
+            "peakPos": 61,
+            "rank": 61,
+            "title": "Fly",
+            "weeks": 10
+        },
+        {
+            "artist": "Old Dominion",
+            "image": null,
+            "isNew": false,
+            "lastPos": 67,
+            "peakPos": 62,
+            "rank": 62,
+            "title": "Break Up With Him",
+            "weeks": 11
+        },
+        {
+            "artist": "Florida Georgia Line",
+            "image": null,
+            "isNew": false,
+            "lastPos": 66,
+            "peakPos": 63,
+            "rank": 63,
+            "title": "Anything Goes",
+            "weeks": 10
+        },
+        {
+            "artist": "Flo Rida Featuring Robin Thicke & Verdine White",
+            "image": null,
+            "isNew": false,
+            "lastPos": 57,
+            "peakPos": 43,
+            "rank": 64,
+            "title": "I Don't Like It, I Love It",
+            "weeks": 13
+        },
+        {
+            "artist": "Carrie Underwood",
+            "image": null,
+            "isNew": false,
+            "lastPos": 71,
+            "peakPos": 43,
+            "rank": 65,
+            "title": "Smoke Break",
+            "weeks": 4
+        },
+        {
+            "artist": "Drake",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 66,
+            "rank": 66,
+            "title": "Right Hand",
+            "weeks": 1
+        },
+        {
+            "artist": "Adam Lambert",
+            "image": null,
+            "isNew": false,
+            "lastPos": 64,
+            "peakPos": 64,
+            "rank": 67,
+            "title": "Ghost Town",
+            "weeks": 14
+        },
+        {
+            "artist": "Little Mix",
+            "image": null,
+            "isNew": false,
+            "lastPos": 69,
+            "peakPos": 67,
+            "rank": 68,
+            "title": "Black Magic",
+            "weeks": 6
+        },
+        {
+            "artist": "Chris Young",
+            "image": null,
+            "isNew": false,
+            "lastPos": 73,
+            "peakPos": 57,
+            "rank": 69,
+            "title": "I'm Comin' Over",
+            "weeks": 12
+        },
+        {
+            "artist": "J. Cole",
+            "image": null,
+            "isNew": false,
+            "lastPos": 76,
+            "peakPos": 70,
+            "rank": 70,
+            "title": "No Role Modelz",
+            "weeks": 5
+        },
+        {
+            "artist": "Post Malone",
+            "image": null,
+            "isNew": false,
+            "lastPos": 84,
+            "peakPos": 71,
+            "rank": 71,
+            "title": "White Iverson",
+            "weeks": 2
+        },
+        {
+            "artist": "Luke Bryan",
+            "image": null,
+            "isNew": false,
+            "lastPos": 63,
+            "peakPos": 26,
+            "rank": 72,
+            "title": "Kick The Dust Up",
+            "weeks": 18
+        },
+        {
+            "artist": "Travis Scott",
+            "image": null,
+            "isNew": false,
+            "lastPos": 75,
+            "peakPos": 73,
+            "rank": 73,
+            "title": "Antidote",
+            "weeks": 2
+        },
+        {
+            "artist": "Cole Swindell",
+            "image": null,
+            "isNew": false,
+            "lastPos": 78,
+            "peakPos": 74,
+            "rank": 74,
+            "title": "Let Me See Ya Girl",
+            "weeks": 7
+        },
+        {
+            "artist": "Dan + Shay",
+            "image": null,
+            "isNew": false,
+            "lastPos": 81,
+            "peakPos": 75,
+            "rank": 75,
+            "title": "Nothin' Like You",
+            "weeks": 6
+        },
+        {
+            "artist": "Chase Rice",
+            "image": null,
+            "isNew": false,
+            "lastPos": 86,
+            "peakPos": 76,
+            "rank": 76,
+            "title": "Gonna Wanna Tonight",
+            "weeks": 6
+        },
+        {
+            "artist": "The Weeknd",
+            "image": null,
+            "isNew": false,
+            "lastPos": 72,
+            "peakPos": 60,
+            "rank": 77,
+            "title": "Acquainted",
+            "weeks": 3
+        },
+        {
+            "artist": "Chris Brown",
+            "image": null,
+            "isNew": false,
+            "lastPos": 87,
+            "peakPos": 78,
+            "rank": 78,
+            "title": "Liquor",
+            "weeks": 3
+        },
+        {
+            "artist": "The Weeknd",
+            "image": null,
+            "isNew": false,
+            "lastPos": 70,
+            "peakPos": 54,
+            "rank": 79,
+            "title": "Tell Your Friends",
+            "weeks": 3
+        },
+        {
+            "artist": "Dustin Lynch",
+            "image": null,
+            "isNew": false,
+            "lastPos": 65,
+            "peakPos": 55,
+            "rank": 80,
+            "title": "Hell Of A Night",
+            "weeks": 16
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "image": null,
+            "isNew": false,
+            "lastPos": 82,
+            "peakPos": 81,
+            "rank": 81,
+            "title": "Alright",
+            "weeks": 13
+        },
+        {
+            "artist": "5 Seconds Of Summer",
+            "image": null,
+            "isNew": false,
+            "lastPos": 61,
+            "peakPos": 22,
+            "rank": 82,
+            "title": "She's Kinda Hot",
+            "weeks": 9
+        },
+        {
+            "artist": "Trey Songz",
+            "image": null,
+            "isNew": false,
+            "lastPos": 90,
+            "peakPos": 83,
+            "rank": 83,
+            "title": "About You",
+            "weeks": 3
+        },
+        {
+            "artist": "Meek Mill Featuring Drake",
+            "image": null,
+            "isNew": false,
+            "lastPos": 88,
+            "peakPos": 40,
+            "rank": 84,
+            "title": "R.I.C.O.",
+            "weeks": 12
+        },
+        {
+            "artist": "Ty Dolla $ign Featuring Future & Rae Sremmurd",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 85,
+            "rank": 85,
+            "title": "Blase",
+            "weeks": 1
+        },
+        {
+            "artist": "Blake Shelton",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 86,
+            "rank": 86,
+            "title": "Gonna",
+            "weeks": 1
+        },
+        {
+            "artist": "Lil Wayne & Charlie Puth",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 87,
+            "rank": 87,
+            "title": "Nothing But Trouble (Instagram Models)",
+            "weeks": 1
+        },
+        {
+            "artist": "Jess Glynne",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 88,
+            "rank": 88,
+            "title": "Hold My Hand",
+            "weeks": 1
+        },
+        {
+            "artist": "Jake Owen",
+            "image": null,
+            "isNew": false,
+            "lastPos": 93,
+            "peakPos": 74,
+            "rank": 89,
+            "title": "Real Life",
+            "weeks": 13
+        },
+        {
+            "artist": "The Game Featuring Drake",
+            "image": null,
+            "isNew": false,
+            "lastPos": 92,
+            "peakPos": 90,
+            "rank": 90,
+            "title": "100",
+            "weeks": 7
+        },
+        {
+            "artist": "Tori Kelly",
+            "image": null,
+            "isNew": false,
+            "lastPos": 68,
+            "peakPos": 51,
+            "rank": 91,
+            "title": "Should've Been Us",
+            "weeks": 10
+        },
+        {
+            "artist": "Kygo Featuring Conrad",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 92,
+            "rank": 92,
+            "title": "Firestone",
+            "weeks": 1
+        },
+        {
+            "artist": "Zac Brown Band",
+            "image": null,
+            "isNew": false,
+            "lastPos": 89,
+            "peakPos": 40,
+            "rank": 93,
+            "title": "Loving You Easy",
+            "weeks": 17
+        },
+        {
+            "artist": "J Balvin",
+            "image": null,
+            "isNew": false,
+            "lastPos": 98,
+            "peakPos": 94,
+            "rank": 94,
+            "title": "Ginza",
+            "weeks": 2
+        },
+        {
+            "artist": "Halsey",
+            "image": null,
+            "isNew": false,
+            "lastPos": 97,
+            "peakPos": 95,
+            "rank": 95,
+            "title": "New Americana",
+            "weeks": 3
+        },
+        {
+            "artist": "The Weeknd Featuring Lana Del Rey",
+            "image": null,
+            "isNew": false,
+            "lastPos": 77,
+            "peakPos": 47,
+            "rank": 96,
+            "title": "Prisoner",
+            "weeks": 3
+        },
+        {
+            "artist": "Daya",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 97,
+            "rank": 97,
+            "title": "Hide Away",
+            "weeks": 1
+        },
+        {
+            "artist": "The Weeknd Featuring Ed Sheeran",
+            "image": null,
+            "isNew": false,
+            "lastPos": 91,
+            "peakPos": 91,
+            "rank": 98,
+            "title": "Dark Times",
+            "weeks": 3
+        },
+        {
+            "artist": "Andrew McMahon In The Wilderness",
+            "image": null,
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 99,
+            "rank": 99,
+            "title": "Cecilia And The Satellite",
+            "weeks": 2
+        },
+        {
+            "artist": "Rae Sremmurd",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 100,
+            "rank": 100,
+            "title": "Come Get Her",
+            "weeks": 1
+        }
+    ],
+    "name": "hot-100",
+    "nextDate": "2015-10-10",
+    "previousDate": "2015-09-26",
+    "title": "The Hot 100",
+    "year": null
+}

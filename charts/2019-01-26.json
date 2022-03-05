@@ -1,0 +1,1012 @@
+{
+    "_max_retries": 5,
+    "_timeout": 25,
+    "date": "2019-01-26",
+    "entries": [
+        {
+            "artist": "Halsey",
+            "image": null,
+            "isNew": false,
+            "lastPos": 2,
+            "peakPos": 1,
+            "rank": 1,
+            "title": "Without Me",
+            "weeks": 15
+        },
+        {
+            "artist": "Post Malone & Swae Lee",
+            "image": null,
+            "isNew": false,
+            "lastPos": 1,
+            "peakPos": 1,
+            "rank": 2,
+            "title": "Sunflower (Spider-Man: Into The Spider-Verse)",
+            "weeks": 13
+        },
+        {
+            "artist": "Travis Scott",
+            "image": null,
+            "isNew": false,
+            "lastPos": 4,
+            "peakPos": 1,
+            "rank": 3,
+            "title": "Sicko Mode",
+            "weeks": 24
+        },
+        {
+            "artist": "Panic! At The Disco",
+            "image": null,
+            "isNew": false,
+            "lastPos": 5,
+            "peakPos": 4,
+            "rank": 4,
+            "title": "High Hopes",
+            "weeks": 24
+        },
+        {
+            "artist": "Ariana Grande",
+            "image": null,
+            "isNew": false,
+            "lastPos": 3,
+            "peakPos": 1,
+            "rank": 5,
+            "title": "Thank U, Next",
+            "weeks": 11
+        },
+        {
+            "artist": "Marshmello & Bastille",
+            "image": null,
+            "isNew": false,
+            "lastPos": 6,
+            "peakPos": 3,
+            "rank": 6,
+            "title": "Happier",
+            "weeks": 22
+        },
+        {
+            "artist": "Maroon 5 Featuring Cardi B",
+            "image": null,
+            "isNew": false,
+            "lastPos": 7,
+            "peakPos": 1,
+            "rank": 7,
+            "title": "Girls Like You",
+            "weeks": 34
+        },
+        {
+            "artist": "Lil Baby & Gunna",
+            "image": null,
+            "isNew": false,
+            "lastPos": 8,
+            "peakPos": 4,
+            "rank": 8,
+            "title": "Drip Too Hard",
+            "weeks": 18
+        },
+        {
+            "artist": "Post Malone",
+            "image": null,
+            "isNew": false,
+            "lastPos": 11,
+            "peakPos": 9,
+            "rank": 9,
+            "title": "Wow.",
+            "weeks": 4
+        },
+        {
+            "artist": "Kodak Black Featuring Travis Scott & Offset",
+            "image": null,
+            "isNew": false,
+            "lastPos": 10,
+            "peakPos": 2,
+            "rank": 10,
+            "title": "ZEZE",
+            "weeks": 14
+        },
+        {
+            "artist": "benny blanco, Halsey & Khalid",
+            "image": null,
+            "isNew": false,
+            "lastPos": 9,
+            "peakPos": 9,
+            "rank": 11,
+            "title": "Eastside",
+            "weeks": 27
+        },
+        {
+            "artist": "Gucci Mane X Bruno Mars X Kodak Black",
+            "image": null,
+            "isNew": false,
+            "lastPos": 12,
+            "peakPos": 11,
+            "rank": 12,
+            "title": "Wake Up In The Sky",
+            "weeks": 18
+        },
+        {
+            "artist": "Cardi B",
+            "image": null,
+            "isNew": false,
+            "lastPos": 17,
+            "peakPos": 13,
+            "rank": 13,
+            "title": "Money",
+            "weeks": 13
+        },
+        {
+            "artist": "Sheck Wes",
+            "image": null,
+            "isNew": false,
+            "lastPos": 14,
+            "peakPos": 6,
+            "rank": 14,
+            "title": "Mo Bamba",
+            "weeks": 21
+        },
+        {
+            "artist": "Post Malone",
+            "image": null,
+            "isNew": false,
+            "lastPos": 13,
+            "peakPos": 3,
+            "rank": 15,
+            "title": "Better Now",
+            "weeks": 38
+        },
+        {
+            "artist": "5 Seconds Of Summer",
+            "image": null,
+            "isNew": false,
+            "lastPos": 16,
+            "peakPos": 7,
+            "rank": 16,
+            "title": "Youngblood",
+            "weeks": 33
+        },
+        {
+            "artist": "Meek Mill Featuring Drake",
+            "image": null,
+            "isNew": false,
+            "lastPos": 18,
+            "peakPos": 6,
+            "rank": 17,
+            "title": "Going Bad",
+            "weeks": 7
+        },
+        {
+            "artist": "Ariana Grande",
+            "image": null,
+            "isNew": false,
+            "lastPos": 15,
+            "peakPos": 12,
+            "rank": 18,
+            "title": "Breathin",
+            "weeks": 22
+        },
+        {
+            "artist": "DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",
+            "image": null,
+            "isNew": false,
+            "lastPos": 19,
+            "peakPos": 11,
+            "rank": 19,
+            "title": "Taki Taki",
+            "weeks": 16
+        },
+        {
+            "artist": "Bad Bunny Featuring Drake",
+            "image": null,
+            "isNew": false,
+            "lastPos": 20,
+            "peakPos": 5,
+            "rank": 20,
+            "title": "MIA",
+            "weeks": 14
+        },
+        {
+            "artist": "Flipp Dinero",
+            "image": null,
+            "isNew": false,
+            "lastPos": 21,
+            "peakPos": 21,
+            "rank": 21,
+            "title": "Leave Me Alone",
+            "weeks": 18
+        },
+        {
+            "artist": "Khalid",
+            "image": null,
+            "isNew": false,
+            "lastPos": 24,
+            "peakPos": 22,
+            "rank": 22,
+            "title": "Better",
+            "weeks": 18
+        },
+        {
+            "artist": "Juice WRLD",
+            "image": null,
+            "isNew": false,
+            "lastPos": 22,
+            "peakPos": 2,
+            "rank": 23,
+            "title": "Lucid Dreams",
+            "weeks": 36
+        },
+        {
+            "artist": "Lady Gaga & Bradley Cooper",
+            "image": null,
+            "isNew": false,
+            "lastPos": 23,
+            "peakPos": 5,
+            "rank": 24,
+            "title": "Shallow",
+            "weeks": 16
+        },
+        {
+            "artist": "Dan + Shay",
+            "image": null,
+            "isNew": false,
+            "lastPos": 25,
+            "peakPos": 24,
+            "rank": 25,
+            "title": "Speechless",
+            "weeks": 19
+        },
+        {
+            "artist": "Bazzi Featuring Camila Cabello",
+            "image": null,
+            "isNew": false,
+            "lastPos": 27,
+            "peakPos": 26,
+            "rank": 26,
+            "title": "Beautiful",
+            "weeks": 24
+        },
+        {
+            "artist": "Gesaffelstein & The Weeknd",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 27,
+            "rank": 27,
+            "title": "Lost In The Fire",
+            "weeks": 1
+        },
+        {
+            "artist": "Khalid & Normani",
+            "image": null,
+            "isNew": false,
+            "lastPos": 28,
+            "peakPos": 9,
+            "rank": 28,
+            "title": "Love Lies",
+            "weeks": 48
+        },
+        {
+            "artist": "Ella Mai",
+            "image": null,
+            "isNew": false,
+            "lastPos": 26,
+            "peakPos": 11,
+            "rank": 29,
+            "title": "Trip",
+            "weeks": 24
+        },
+        {
+            "artist": "Cardi B, Bad Bunny & J Balvin",
+            "image": null,
+            "isNew": false,
+            "lastPos": 30,
+            "peakPos": 1,
+            "rank": 30,
+            "title": "I Like It",
+            "weeks": 41
+        },
+        {
+            "artist": "Imagine Dragons",
+            "image": null,
+            "isNew": false,
+            "lastPos": 29,
+            "peakPos": 13,
+            "rank": 31,
+            "title": "Natural",
+            "weeks": 26
+        },
+        {
+            "artist": "Ellie Goulding X Diplo Featuring Swae Lee",
+            "image": null,
+            "isNew": false,
+            "lastPos": 31,
+            "peakPos": 31,
+            "rank": 32,
+            "title": "Close To Me",
+            "weeks": 9
+        },
+        {
+            "artist": "Sam Smith & Normani",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 33,
+            "rank": 33,
+            "title": "Dancing With A Stranger",
+            "weeks": 1
+        },
+        {
+            "artist": "21 Savage",
+            "image": null,
+            "isNew": false,
+            "lastPos": 33,
+            "peakPos": 33,
+            "rank": 34,
+            "title": "A Lot",
+            "weeks": 4
+        },
+        {
+            "artist": "Lauren Daigle",
+            "image": null,
+            "isNew": false,
+            "lastPos": 34,
+            "peakPos": 34,
+            "rank": 35,
+            "title": "You Say",
+            "weeks": 27
+        },
+        {
+            "artist": "Ava Max",
+            "image": null,
+            "isNew": false,
+            "lastPos": 37,
+            "peakPos": 36,
+            "rank": 36,
+            "title": "Sweet But Psycho",
+            "weeks": 5
+        },
+        {
+            "artist": "Pinkfong",
+            "image": null,
+            "isNew": false,
+            "lastPos": 38,
+            "peakPos": 32,
+            "rank": 37,
+            "title": "Baby Shark",
+            "weeks": 3
+        },
+        {
+            "artist": "Luke Combs",
+            "image": null,
+            "isNew": false,
+            "lastPos": 32,
+            "peakPos": 31,
+            "rank": 38,
+            "title": "She Got The Best Of Me",
+            "weeks": 23
+        },
+        {
+            "artist": "A Boogie Wit da Hoodie Featuring 6ix9ine",
+            "image": null,
+            "isNew": false,
+            "lastPos": 40,
+            "peakPos": 38,
+            "rank": 39,
+            "title": "Swervin",
+            "weeks": 4
+        },
+        {
+            "artist": "A Boogie Wit da Hoodie",
+            "image": null,
+            "isNew": false,
+            "lastPos": 49,
+            "peakPos": 40,
+            "rank": 40,
+            "title": "Look Back At It",
+            "weeks": 6
+        },
+        {
+            "artist": "Calboy",
+            "image": null,
+            "isNew": false,
+            "lastPos": 63,
+            "peakPos": 41,
+            "rank": 41,
+            "title": "Envy Me",
+            "weeks": 5
+        },
+        {
+            "artist": "Luke Combs",
+            "image": null,
+            "isNew": false,
+            "lastPos": 41,
+            "peakPos": 41,
+            "rank": 42,
+            "title": "Beautiful Crazy",
+            "weeks": 10
+        },
+        {
+            "artist": "Thomas Rhett",
+            "image": null,
+            "isNew": false,
+            "lastPos": 45,
+            "peakPos": 42,
+            "rank": 43,
+            "title": "Sixteen",
+            "weeks": 10
+        },
+        {
+            "artist": "Dean Lewis",
+            "image": null,
+            "isNew": false,
+            "lastPos": 42,
+            "peakPos": 40,
+            "rank": 44,
+            "title": "Be Alright",
+            "weeks": 12
+        },
+        {
+            "artist": "Pardison Fontaine Featuring Cardi B",
+            "image": null,
+            "isNew": false,
+            "lastPos": 48,
+            "peakPos": 44,
+            "rank": 45,
+            "title": "Backin' It Up",
+            "weeks": 14
+        },
+        {
+            "artist": "Jason Aldean",
+            "image": null,
+            "isNew": false,
+            "lastPos": 50,
+            "peakPos": 46,
+            "rank": 46,
+            "title": "Girl Like You",
+            "weeks": 8
+        },
+        {
+            "artist": "Dierks Bentley Featuring Brothers Osborne",
+            "image": null,
+            "isNew": false,
+            "lastPos": 47,
+            "peakPos": 45,
+            "rank": 47,
+            "title": "Burning Man",
+            "weeks": 13
+        },
+        {
+            "artist": "Jimmie Allen",
+            "image": null,
+            "isNew": false,
+            "lastPos": 39,
+            "peakPos": 37,
+            "rank": 48,
+            "title": "Best Shot",
+            "weeks": 18
+        },
+        {
+            "artist": "Lil Wayne",
+            "image": null,
+            "isNew": false,
+            "lastPos": 36,
+            "peakPos": 7,
+            "rank": 49,
+            "title": "Uproar",
+            "weeks": 16
+        },
+        {
+            "artist": "Mark Ronson Featuring Miley Cyrus",
+            "image": null,
+            "isNew": false,
+            "lastPos": 43,
+            "peakPos": 43,
+            "rank": 50,
+            "title": "Nothing Breaks Like A Heart",
+            "weeks": 7
+        },
+        {
+            "artist": "The Chainsmokers Featuring Kelsea Ballerini",
+            "image": null,
+            "isNew": false,
+            "lastPos": 51,
+            "peakPos": 50,
+            "rank": 51,
+            "title": "This Feeling",
+            "weeks": 14
+        },
+        {
+            "artist": "Scotty McCreery",
+            "image": null,
+            "isNew": false,
+            "lastPos": 53,
+            "peakPos": 52,
+            "rank": 52,
+            "title": "This Is It",
+            "weeks": 6
+        },
+        {
+            "artist": "Dustin Lynch",
+            "image": null,
+            "isNew": false,
+            "lastPos": 44,
+            "peakPos": 44,
+            "rank": 53,
+            "title": "Good Girl",
+            "weeks": 10
+        },
+        {
+            "artist": "City Girls Featuring Cardi B",
+            "image": null,
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 54,
+            "rank": 54,
+            "title": "Twerk",
+            "weeks": 2
+        },
+        {
+            "artist": "Kodak Black",
+            "image": null,
+            "isNew": false,
+            "lastPos": 56,
+            "peakPos": 46,
+            "rank": 55,
+            "title": "Calling My Spirit",
+            "weeks": 7
+        },
+        {
+            "artist": "Chris Brown",
+            "image": null,
+            "isNew": false,
+            "lastPos": 35,
+            "peakPos": 35,
+            "rank": 56,
+            "title": "Undecided",
+            "weeks": 2
+        },
+        {
+            "artist": "Khalid & Kane Brown",
+            "image": null,
+            "isNew": false,
+            "lastPos": 0,
+            "peakPos": 57,
+            "rank": 57,
+            "title": "Saturday Nights",
+            "weeks": 2
+        },
+        {
+            "artist": "Juice WRLD",
+            "image": null,
+            "isNew": false,
+            "lastPos": 54,
+            "peakPos": 44,
+            "rank": 58,
+            "title": "Armed And Dangerous",
+            "weeks": 10
+        },
+        {
+            "artist": "Future",
+            "image": null,
+            "isNew": false,
+            "lastPos": 46,
+            "peakPos": 46,
+            "rank": 59,
+            "title": "Crushed Up",
+            "weeks": 2
+        },
+        {
+            "artist": "Camila Cabello",
+            "image": null,
+            "isNew": false,
+            "lastPos": 52,
+            "peakPos": 51,
+            "rank": 60,
+            "title": "Consequences",
+            "weeks": 11
+        },
+        {
+            "artist": "Jacquees",
+            "image": null,
+            "isNew": false,
+            "lastPos": 58,
+            "peakPos": 58,
+            "rank": 61,
+            "title": "You",
+            "weeks": 8
+        },
+        {
+            "artist": "XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee",
+            "image": null,
+            "isNew": false,
+            "lastPos": 55,
+            "peakPos": 28,
+            "rank": 62,
+            "title": "Arms Around You",
+            "weeks": 12
+        },
+        {
+            "artist": "French Montana Featuring Drake",
+            "image": null,
+            "isNew": false,
+            "lastPos": 61,
+            "peakPos": 47,
+            "rank": 63,
+            "title": "No Stylist",
+            "weeks": 17
+        },
+        {
+            "artist": "Billie Eilish & Khalid",
+            "image": null,
+            "isNew": false,
+            "lastPos": 65,
+            "peakPos": 64,
+            "rank": 64,
+            "title": "Lovely",
+            "weeks": 12
+        },
+        {
+            "artist": "A Boogie Wit da Hoodie Featuring Offset & Tyga",
+            "image": null,
+            "isNew": false,
+            "lastPos": 59,
+            "peakPos": 59,
+            "rank": 65,
+            "title": "Startender",
+            "weeks": 4
+        },
+        {
+            "artist": "Anuel AA & Romeo Santos",
+            "image": null,
+            "isNew": false,
+            "lastPos": 64,
+            "peakPos": 64,
+            "rank": 66,
+            "title": "Ella Quiere Beber",
+            "weeks": 11
+        },
+        {
+            "artist": "Lil Baby",
+            "image": null,
+            "isNew": false,
+            "lastPos": 66,
+            "peakPos": 46,
+            "rank": 67,
+            "title": "Pure Cocaine",
+            "weeks": 6
+        },
+        {
+            "artist": "Silk City x Dua Lipa",
+            "image": null,
+            "isNew": false,
+            "lastPos": 62,
+            "peakPos": 62,
+            "rank": 68,
+            "title": "Electricity",
+            "weeks": 9
+        },
+        {
+            "artist": "Kehlani Featuring Ty Dolla $ign",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 69,
+            "rank": 69,
+            "title": "Nights Like This",
+            "weeks": 1
+        },
+        {
+            "artist": "Travis Scott",
+            "image": null,
+            "isNew": false,
+            "lastPos": 71,
+            "peakPos": 25,
+            "rank": 70,
+            "title": "Yosemite",
+            "weeks": 13
+        },
+        {
+            "artist": "Chris Stapleton",
+            "image": null,
+            "isNew": false,
+            "lastPos": 67,
+            "peakPos": 67,
+            "rank": 71,
+            "title": "Millionaire",
+            "weeks": 6
+        },
+        {
+            "artist": "Tory Lanez & Rich The Kid",
+            "image": null,
+            "isNew": false,
+            "lastPos": 57,
+            "peakPos": 43,
+            "rank": 72,
+            "title": "Talk To Me",
+            "weeks": 12
+        },
+        {
+            "artist": "Luke Bryan",
+            "image": null,
+            "isNew": false,
+            "lastPos": 74,
+            "peakPos": 73,
+            "rank": 73,
+            "title": "What Makes You Country",
+            "weeks": 3
+        },
+        {
+            "artist": "Billie Eilish",
+            "image": null,
+            "isNew": false,
+            "lastPos": 68,
+            "peakPos": 52,
+            "rank": 74,
+            "title": "When The Party's Over",
+            "weeks": 13
+        },
+        {
+            "artist": "Blueface",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 75,
+            "rank": 75,
+            "title": "Thotiana",
+            "weeks": 1
+        },
+        {
+            "artist": "Jordan Davis",
+            "image": null,
+            "isNew": false,
+            "lastPos": 69,
+            "peakPos": 69,
+            "rank": 76,
+            "title": "Take It From Me",
+            "weeks": 3
+        },
+        {
+            "artist": "Zara Larsson",
+            "image": null,
+            "isNew": false,
+            "lastPos": 76,
+            "peakPos": 76,
+            "rank": 77,
+            "title": "Ruin My Life",
+            "weeks": 3
+        },
+        {
+            "artist": "Jake Owen",
+            "image": null,
+            "isNew": false,
+            "lastPos": 75,
+            "peakPos": 75,
+            "rank": 78,
+            "title": "Down To The Honkytonk",
+            "weeks": 3
+        },
+        {
+            "artist": "Alec Benjamin + Alessia Cara",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 79,
+            "rank": 79,
+            "title": "Let Me Down Slowly",
+            "weeks": 1
+        },
+        {
+            "artist": "Future",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 80,
+            "rank": 80,
+            "title": "Jumpin On A Jet",
+            "weeks": 1
+        },
+        {
+            "artist": "Lukas Graham",
+            "image": null,
+            "isNew": false,
+            "lastPos": 82,
+            "peakPos": 81,
+            "rank": 81,
+            "title": "Love Someone",
+            "weeks": 3
+        },
+        {
+            "artist": "Loud Luxury Featuring Brando",
+            "image": null,
+            "isNew": false,
+            "lastPos": 80,
+            "peakPos": 80,
+            "rank": 82,
+            "title": "Body",
+            "weeks": 3
+        },
+        {
+            "artist": "Future & Juice WRLD",
+            "image": null,
+            "isNew": false,
+            "lastPos": 72,
+            "peakPos": 26,
+            "rank": 83,
+            "title": "Fine China",
+            "weeks": 13
+        },
+        {
+            "artist": "Ski Mask The Slump God Featuring Juice WRLD",
+            "image": null,
+            "isNew": false,
+            "lastPos": 86,
+            "peakPos": 63,
+            "rank": 84,
+            "title": "Nuketown",
+            "weeks": 6
+        },
+        {
+            "artist": "XXXTENTACION",
+            "image": null,
+            "isNew": false,
+            "lastPos": 77,
+            "peakPos": 16,
+            "rank": 85,
+            "title": "BAD!",
+            "weeks": 10
+        },
+        {
+            "artist": "Carrie Underwood",
+            "image": null,
+            "isNew": false,
+            "lastPos": 85,
+            "peakPos": 83,
+            "rank": 86,
+            "title": "Love Wins",
+            "weeks": 3
+        },
+        {
+            "artist": "benny blanco & Juice WRLD Featuring Brendon Urie",
+            "image": null,
+            "isNew": false,
+            "lastPos": 91,
+            "peakPos": 87,
+            "rank": 87,
+            "title": "Roses",
+            "weeks": 3
+        },
+        {
+            "artist": "Metro Boomin Featuring Gunna",
+            "image": null,
+            "isNew": false,
+            "lastPos": 83,
+            "peakPos": 51,
+            "rank": 88,
+            "title": "Space Cadet",
+            "weeks": 6
+        },
+        {
+            "artist": "Lil Pump",
+            "image": null,
+            "isNew": false,
+            "lastPos": 81,
+            "peakPos": 81,
+            "rank": 89,
+            "title": "Butterfly Doors",
+            "weeks": 2
+        },
+        {
+            "artist": "YoungBoy Never Broke Again",
+            "image": null,
+            "isNew": false,
+            "lastPos": 87,
+            "peakPos": 87,
+            "rank": 90,
+            "title": "Valuable Pain",
+            "weeks": 2
+        },
+        {
+            "artist": "Russell Dickerson",
+            "image": null,
+            "isNew": false,
+            "lastPos": 79,
+            "peakPos": 52,
+            "rank": 91,
+            "title": "Blue Tacoma",
+            "weeks": 18
+        },
+        {
+            "artist": "Lil Baby",
+            "image": null,
+            "isNew": false,
+            "lastPos": 89,
+            "peakPos": 28,
+            "rank": 92,
+            "title": "Close Friends",
+            "weeks": 14
+        },
+        {
+            "artist": "21 Savage",
+            "image": null,
+            "isNew": false,
+            "lastPos": 70,
+            "peakPos": 58,
+            "rank": 93,
+            "title": "Can't Leave Without It",
+            "weeks": 4
+        },
+        {
+            "artist": "Nicki Minaj Featuring Lil Wayne",
+            "image": null,
+            "isNew": false,
+            "lastPos": 94,
+            "peakPos": 60,
+            "rank": 94,
+            "title": "Good Form",
+            "weeks": 6
+        },
+        {
+            "artist": "Brett Young",
+            "image": null,
+            "isNew": false,
+            "lastPos": 88,
+            "peakPos": 88,
+            "rank": 95,
+            "title": "Here Tonight",
+            "weeks": 3
+        },
+        {
+            "artist": "Billie Eilish",
+            "image": null,
+            "isNew": false,
+            "lastPos": 98,
+            "peakPos": 96,
+            "rank": 96,
+            "title": "idontwannabeyouanymore",
+            "weeks": 3
+        },
+        {
+            "artist": "Billie Eilish",
+            "image": null,
+            "isNew": false,
+            "lastPos": 97,
+            "peakPos": 96,
+            "rank": 97,
+            "title": "Ocean Eyes",
+            "weeks": 5
+        },
+        {
+            "artist": "Midland",
+            "image": null,
+            "isNew": false,
+            "lastPos": 93,
+            "peakPos": 92,
+            "rank": 98,
+            "title": "Burn Out",
+            "weeks": 3
+        },
+        {
+            "artist": "Rich The Kid",
+            "image": null,
+            "isNew": true,
+            "lastPos": 0,
+            "peakPos": 99,
+            "rank": 99,
+            "title": "Splashin",
+            "weeks": 1
+        },
+        {
+            "artist": "Old Dominion",
+            "image": null,
+            "isNew": false,
+            "lastPos": 92,
+            "peakPos": 92,
+            "rank": 100,
+            "title": "Make It Sweet",
+            "weeks": 3
+        }
+    ],
+    "name": "hot-100",
+    "nextDate": "2019-02-02",
+    "previousDate": "2019-01-19",
+    "title": "The Hot 100",
+    "year": null
+}
